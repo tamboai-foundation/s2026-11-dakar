@@ -1,8 +1,11 @@
-# Plateforme choisie : Web
+# Objectif 1 — Application Web (Team Dakar)
 
-Dossier de travail de la **Team Dakar** pour l'Objectif 1 (Messagerie instantanée chiffrée de bout en bout avec chatbot intégré).
+## Environnement et plateforme retenus
+- **Plateforme choisie par l'équipe :** Application Web
+- **Stack technique :** React + Vite (JavaScript)
 
-## Architecture & Environnement
-
-- **Plateforme :** Web (`objectif-1-messagerie/web/`)
-- **Team Lead :** Ibrahima Dramé
+## Installation et lancement en local
+```bash
+npm install
+npm run dev
+```

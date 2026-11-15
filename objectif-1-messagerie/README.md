@@ -15,3 +15,6 @@ Le détail et l'état de vos tâches sont sur le site Foundation, dans « Mes t�
 ## Séances live
 - Introduction aux systèmes d'information client/serveur
 - Introduction à la cryptographie
+
+## Plateforme retenue par l'équipe
+- **Application Web** (dossier `web/` — React + Vite)
