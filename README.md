@@ -29,3 +29,4 @@ Posez vos questions à votre Team Lead, puis à la formation (contact@tamboai.co
 - Test Git : Ibrahima Dram�
 -Test Git : Zakariyaou Saidou
 - Test Git : BEMYA ALFREDE
+-Test Git: Daniel AMEWONOUVOIN 
