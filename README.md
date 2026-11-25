@@ -31,3 +31,4 @@ Posez vos questions à votre Team Lead, puis à la formation (contact@tamboai.co
 - Test Git : BEMYA ALFREDE
 -Test Git: Daniel AMEWONOUVOIN 
 - Test Git : Michel Almont
+- Test Git : Boubou Ba
